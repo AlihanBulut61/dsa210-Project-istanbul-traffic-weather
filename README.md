@@ -59,11 +59,6 @@ All sources will be properly cited in the final repo and report. Any scraping wi
 - **Visualization:** clear, labeled charts; confidence intervals; reproducible notebooks.
 - **Ethics:** only aggregated, non‑personal, open data; no PII.
 
-## 6) Deliverables & Milestones
-- **By 31 Oct 2025 (Proposal):** This README in GitHub, with an initial `requirements.txt` and skeleton folders.
-- **By 28 Nov 2025:** Raw data collected; EDA + initial hypothesis tests committed.
-- **By 02 Jan 2026:** Baseline ML model(s) for prediction (e.g., Lasso/ElasticNet/Random Forest) on daily congestion with exogenous features; cross‑validation.
-- **By 09 Jan 2026, 23:59:** Final report (notebook or article), polished visualizations, and documented code.
 
 ## 7) Risks & Mitigations
 - **Data availability gaps:** If an official traffic history is limited, fall back to reputable mirrors (e.g., Kaggle/TomTom indices) with clear caveats.
@@ -94,5 +89,3 @@ All sources will be properly cited in the final repo and report. Any scraping wi
 
 ---
 
-### Statement on Academic Integrity & AI Tooling
-I will cite all data and code sources. If I use AI assistants for code or text, I will disclose prompts and generated outputs in a `docs/AI_DISCLOSURE.md` file, per course policy.
