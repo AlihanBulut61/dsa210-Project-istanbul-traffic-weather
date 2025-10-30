@@ -83,9 +83,7 @@ All sources will be properly cited in the final repo and report. Any scraping wi
     ├── raw/                         # do not commit large files
     └── processed/
 ```
-## 9) Reproducibility
-- Python ≥ 3.10; `pip install -r requirements.txt`
-- A `.env` (not committed) may store API keys if needed (e.g., WAQI token).
+
 
 ---
 
