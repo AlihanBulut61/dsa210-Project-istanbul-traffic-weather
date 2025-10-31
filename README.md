@@ -2,7 +2,7 @@
 
 **Course:** DSA 210 (Fall 2025)  
 **Student:** Alihan Bulut  
-**Repository (to be created by me):** https://github.com/alihanbulut/dsa210-istanbul-traffic-weather
+**Repository:** https://github.com/alihanbulut/dsa210-istanbul-traffic-weather
 
 ---
 
