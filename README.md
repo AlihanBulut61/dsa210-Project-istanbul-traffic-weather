@@ -113,8 +113,7 @@ Results will help urban authorities and commuters plan around predictable traffi
 ---
 
 ## Conclusion  
-This project will quantify how environmental and temporal variables affect Istanbul’s daily traffic congestion.  
-It fulfills the DSA 210 proposal requirement by defining:  
+This project will quantify how environmental and temporal variables affect Istanbul’s daily traffic congestion.   
 - A clear research question and motivation,  
 - Multiple open data sources, and  
 - A concrete data collection and analysis plan.
