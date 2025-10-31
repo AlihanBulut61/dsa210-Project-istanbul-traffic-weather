@@ -1,7 +1,5 @@
 # DSA 210 Project Proposal — Weather, Holidays & Air Quality Effects on Istanbul Traffic Congestion
-
-**Course:** DSA 210 (Fall 2025)  
-**Student:** Alihan Bulut  
+ 
 **Repository:** https://github.com/alihanbulut/dsa210-istanbul-traffic-weather
 
 ---
