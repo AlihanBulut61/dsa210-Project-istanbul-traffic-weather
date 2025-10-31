@@ -9,7 +9,7 @@ The objective is to analyze how these variables influence traffic intensity and 
 ## Motivation  
 Istanbul is one of the most congested cities in the world, and its traffic varies drastically with season, weekday, and even weather changes.  
 Understanding how **rain, temperature, wind**, and **holidays** impact congestion can help improve urban mobility planning and reduce travel delays.  
-This project aligns with the DSA 210 requirement to integrate **at least two independent datasets** and perform exploratory data analysis and hypothesis testing.
+
 
 ---
 
